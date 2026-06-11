@@ -2,16 +2,8 @@
 ## Project Overview
 Built an end-to-end ETL pipeline using PySpark to process coffee sales transaction and implement Medallion Architecture(Bronze,Silver,Gold)
 ## Architecture
-Raw CSV
-   ↓
-Bronze Layer
-   ↓
-Silver Layer
-   ↓
-Gold Layer
-   ↓
-## Analytics & KPIs
-Technologies
+Raw CSV --> Bronze Layer --> Silver Layer --> Gold Layer --> Analytics & KPIs
+## Technologies
 Python
 PySpark
 Spark SQL
