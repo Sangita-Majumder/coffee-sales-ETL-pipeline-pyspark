@@ -1,2 +1,3 @@
-# coffe-sales-ETL-pipeline-pyspark
-End-to-End ETL Pipeline using PySpark and Medallion Architecture on Coffee Sales Data
+# Coffee Sales ETL Pipeline using PySpark
+## Project Overview
+Built an end-to-end ETL pipeline using PySpark to process coffee sales transaction and implement Medallion Architecture(Bronze,Silver,Gold)
