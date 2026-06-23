@@ -4,17 +4,17 @@ Built an end-to-end ETL pipeline using PySpark to process coffee sales transacti
 ## Architecture
 Raw CSV --> Bronze Layer --> Silver Layer --> Gold Layer --> Analytics & KPIs
 ## Technologies
-<li>Python</li>
+<ul><li>Python</li>
 <li>PySpark</li>
 <li>Spark SQL</li>
 <li>Databricks Community Edition</li>
 <li>Parquet</li>
-<li>GitHub</li>
+<li>GitHub</li></ul>
 ## Key Features
-<li>Data Ingestion</li>
+<ul><li>Data Ingestion</li>
 <li>Data Validation</li>
 <li>Data Cleaning</li>
 <li>Feature Engineering</li>
 <li>Window Functions</li>
 <li>KPI Generation</li>
-<li>Parquet Storage</li>
+<li>Parquet Storage</li></ul>
