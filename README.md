@@ -10,6 +10,7 @@ Raw CSV --> Bronze Layer --> Silver Layer --> Gold Layer --> Analytics & KPIs
 <li>Databricks Community Edition</li>
 <li>Parquet</li>
 <li>GitHub</li></ul>
+
 ## Key Features
 <ul><li>Data Ingestion</li>
 <li>Data Validation</li>
